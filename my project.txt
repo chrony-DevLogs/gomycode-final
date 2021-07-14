@@ -7,7 +7,7 @@ Content:
 
 	Services ==> Seven services: Arrosage / station de pompage / jardinage / Création de bassin / brumisation haute pression / microclimate sous serre / station d'épuration
 	
-	Gallery ==> Photo Slider "bootStrap" / Grid of photos
+	Gallery ==> carrousel "bootStrap" / Grid of photos
 
 Functions:
 	 1:Adding contact button in services onmouseover
