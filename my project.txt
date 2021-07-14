@@ -1,0 +1,18 @@
+IRRI PRO WEBSITE PROJECT
+
+Goal: offering landscaping services online
+
+Content: 
+	Home ==> about IRRI PRO / Features / number of visitors / contact throw mail 
+
+	Services ==> Seven services: Arrosage / station de pompage / jardinage / Création de bassin / brumisation haute pression / microclimate sous serre / station d'épuration
+	
+	Gallery ==> Photo Slider "bootStrap" / Grid of photos
+
+Functions:
+	 1:Adding contact button in services onmouseover
+	 2:Removing contact button in sercices onmouseleave
+	 3:open new window "popup.html" onclick
+	 4:Send email if all formula fields are filled in
+	 5:updating number of visitors
+	 6:open images in a new widow
